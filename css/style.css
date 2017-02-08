@@ -27,3 +27,9 @@ body {
 .red2 {
   color: #ff0000;
 }
+
+.footer {
+  background: center;
+  color: #000;
+  float: right;
+}
