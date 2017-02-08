@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.container{
+  max-width: 980px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+
+.header  {
+  background: url(../images/logo.png) center center no-repeat;
+  background-size: cover;
+}
+
+.download-header {
+  text-align: center;
+}
